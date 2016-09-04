@@ -1,0 +1,10 @@
+base
+lattice
+ggplot2
+caret
+corrplot
+Rtsne
+xgboost
+knitr
+e1071
+Ckmeans.1d.dp
